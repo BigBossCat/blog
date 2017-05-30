@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## 欢迎来到李雅兰的安乐窝
 
-You can use the [editor on GitHub](https://github.com/BigBossCat/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+更多内容请移步[Twitter](https://twitter.com/),十分乐意添加推友。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### 生活涂鸦
+
+![Image of cat](https://octodex.github.com/images/yaktocat.png)
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +29,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 随笔感悟
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BigBossCat/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 意见反馈
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如果你对我的网站有任何意见，请联系我的[Github](https://bigbosscat.github.io/),我将在看见消息的第一时间改正答复。
