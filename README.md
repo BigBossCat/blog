@@ -7,7 +7,7 @@
 
 ### 生活涂鸦
 
-![Image of cat](https://octodex.github.com/images/yaktocat.png)
+![Image of cat](\Users\Administrator.XTZ-01704191853\Desktop\cat\9.jpg)
 
 ```markdown
 Syntax highlighted code block
