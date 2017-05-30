@@ -31,7 +31,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 随笔感悟
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BigBossCat/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 《20140803》
+
+川东的温度开始迅速的合拢。
+仿佛电视上非洲平原上的动物大迁徙，看似慢吞吞的跋涉，看似无止境的折磨，一嘴冰淇淋的工夫，就已汇聚成了磨肩擦踵的热闹平原。
+地面是阵阵滚烫的热浪，吓得蚂蚁逃回了地底阴冷的家。成群结队的蝉，横七竖八地趴在树枝上，他们积攒了一个冬季的力气，此时玩命的使出来，嘶吼叫骂着。
+许是厌烦了这毫无节律的聒噪声，人们争先恐后地躲了起来，只留这深深浅浅的裂痕，布满了沉默的小镇街道。
 
 ### 意见反馈
 
