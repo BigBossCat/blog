@@ -7,9 +7,9 @@
 
 ## 生活涂鸦
 
-![Image of cat](file:///C:/Users/Administrator.XTZ-01704191853/Desktop/cat/9.jpg)
+![Image of cat](http://a4.qpic.cn/psb?/V130dAS23Tap1h/YuMX*roQjSxL0LvalobpCotd*ln5A0AyPTIph.Ksni8!/b/dGsBAAAAAAAA&ek=1&kp=1&pt=0&bo=VQOAAgAAAAARF*Q!&tm=1496156400&sce=60-2-2&rf=viewer_4)
 
-```markdown
+
 
 ## 随笔感悟
 
